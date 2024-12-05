@@ -1,0 +1,3 @@
+#! /usr/bin/env bash
+
+rsync -av "/mnt/c/ProgramData/Neural DSP/Archetype Nolly X/User/" presets/

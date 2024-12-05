@@ -1,1 +1,3 @@
+#! /usr/bin/env bash
+
 rsync -av presets/* "/Library/Audio/Presets/Neural DSP/Archetype Nolly X/User/"
